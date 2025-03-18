@@ -1,7 +1,7 @@
 <h1>amigo-secreto</h1> 
 
-🎁 Amigo Secreto
-Este proyecto es una aplicación web interactiva diseñada para realizar sorteos de "Amigo Secreto" de manera rápida y sencilla. Los usuarios pueden agregar nombres a una lista y realizar un sorteo aleatorio para determinar quién será el amigo secreto de cada participante.
+🎁 Amigo Secreto<br>
+Este proyecto es una aplicación web interactiva diseñada para realizar sorteos de "Amigo Secreto" de manera rápida y sencilla. Los usuarios pueden agregar nombres a una lista y realizar un sorteo aleatorio para determinar quién será el amigo secreto de cada participante.<br>
 
 📌 Funcionalidades <br>
 ✅ Agregar nombres: Los usuarios pueden escribir nombres en un campo de texto y agregarlos a la lista.<br>
