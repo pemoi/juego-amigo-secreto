@@ -6,20 +6,20 @@ Este proyecto es una aplicación web interactiva diseñada para realizar sorteos
 📌 Funcionalidades <br>
 ✅ Agregar nombres: Los usuarios pueden escribir nombres en un campo de texto y agregarlos a la lista.<br>
 ✅ Visualizar la lista: Los nombres ingresados se muestran en una lista visible en pantalla.<br>
-✅ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", el sistema selecciona un nombre al azar y lo muestra.
-✅ Reinicio automático: Una vez realizado el sorteo, la lista se borra automáticamente para un nuevo uso.
+✅ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", el sistema selecciona un nombre al azar y lo muestra.<br>
+✅ Reinicio automático: Una vez realizado el sorteo, la lista se borra automáticamente para un nuevo uso.<br>
 
-🚀 Cómo usar
-Escribe un nombre en el campo de texto y presiona el botón "Añadir".
-Repite el proceso para agregar más participantes.
-Cuando estés listo, presiona el botón "Sortear Amigo".
-Se mostrará el nombre del amigo secreto y la lista se reiniciará automáticamente.
-🛠️ Tecnologías utilizadas
-HTML para la estructura del sitio.
-CSS para el diseño y la presentación.
-JavaScript para la lógica del sorteo y la manipulación del DOM.
+🚀 Cómo usar<br>
+Escribe un nombre en el campo de texto y presiona el botón "Añadir".<br>
+Repite el proceso para agregar más participantes.<br>
+Cuando estés listo, presiona el botón "Sortear Amigo".<br>
+Se mostrará el nombre del amigo secreto y la lista se reiniciará automáticamente.<br>
+🛠️ Tecnologías utilizadas<br>
+HTML para la estructura del sitio.<br>
+CSS para el diseño y la presentación.<br>
+JavaScript para la lógica del sorteo y la manipulación del DOM.<br>
 
-📌 Estado del proyecto
-✅ Terminado.
+📌 Estado del proyecto<br>
+✅ Terminado.<br>
 
 Este juego permite a los usuarios ingresar una serie de nombres, almacenarlos en un array y realizar un sorteo aleatorio para determinar al amigo secreto. El sistema se encarga de gestionar los datos y ejecutar la selección de manera eficiente.
