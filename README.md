@@ -3,9 +3,9 @@
 🎁 Amigo Secreto
 Este proyecto es una aplicación web interactiva diseñada para realizar sorteos de "Amigo Secreto" de manera rápida y sencilla. Los usuarios pueden agregar nombres a una lista y realizar un sorteo aleatorio para determinar quién será el amigo secreto de cada participante.
 
-📌 Funcionalidades
-✅ Agregar nombres: Los usuarios pueden escribir nombres en un campo de texto y agregarlos a la lista.
-✅ Visualizar la lista: Los nombres ingresados se muestran en una lista visible en pantalla.
+📌 Funcionalidades <br>
+✅ Agregar nombres: Los usuarios pueden escribir nombres en un campo de texto y agregarlos a la lista.<br>
+✅ Visualizar la lista: Los nombres ingresados se muestran en una lista visible en pantalla.<br>
 ✅ Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", el sistema selecciona un nombre al azar y lo muestra.
 ✅ Reinicio automático: Una vez realizado el sorteo, la lista se borra automáticamente para un nuevo uso.
 
