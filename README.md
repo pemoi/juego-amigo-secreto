@@ -18,7 +18,8 @@ Se mostrará el nombre del amigo secreto y la lista se reiniciará automáticame
 HTML para la estructura del sitio.<br>
 CSS para el diseño y la presentación.<br>
 JavaScript para la lógica del sorteo y la manipulación del DOM.<br>
-
+<br>
+<br>
 📌 Estado del proyecto<br>
 ✅ Terminado.<br>
 
